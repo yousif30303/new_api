@@ -25,3 +25,4 @@ and you will get the products,,notice if you didnt use token you cant access thi
 5- you can use the link inside the image and paste it in browser and you will display the image.
 
 (dont forget in postman to put in headers section this key-value(Accept -> application/json ))
+and dont forget to add .env file.
